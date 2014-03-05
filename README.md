@@ -1,4 +1,2 @@
 NumberPersonalities
 ===================
-
-CIT-HW02
